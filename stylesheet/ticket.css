@@ -1,0 +1,162 @@
+@media (min-width: 769px) and (max-width: 1430px){
+div.red-diamond1 {
+  marg
+}
+}
+
+@media  (max-width: 768px) {
+
+table.ticket-cost {
+    margin-right: 1rem;
+    font-size: 15px;
+  }
+
+  div.ticket-main {
+    margin-left: 1rem;
+    width: 90%;
+    margin-bottom: 1rem;
+  }
+
+  table.ticket-cost th {
+    font-size: 15px;
+  }
+
+  div.lunch-menu {
+    width: 80%;
+    margin-left: 3rem;
+  }
+
+  div.lunch-menu td {
+    padding: 2rem;
+  }
+
+  table.lunch-form {
+    font-size: 15px;
+  }
+
+  table.lunch-form th {
+    font-size: 15px;
+  }
+
+  footer {
+    display: flex;
+    flex-direction: column !important;
+    font-size: 10px;
+  }
+
+  div.footer-left,
+  div.footer-right {
+    padding: 0;
+    margin: 0;
+  }
+
+  div.footer-left p {
+    font-size: 15px;
+  }
+
+  section.partner {
+    display: none !important;
+  }
+
+
+}
+.first-ticket {
+  background-color: rgb(245, 245, 245);
+  padding-bottom: 6rem;
+}
+
+.heading {
+  text-align: center;
+  font-size: 42px;
+  margin-bottom: 0;
+}
+
+.ticket-main {
+  display: flex;
+  border: 1px solid #d3d3d3;
+  font-family: "Lato", sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border-radius: 20px;
+  width: 40%;
+  margin-top: 30px;
+}
+
+.red-diamond {
+  margin-top: 5px;
+  margin-left: 20px;
+  background-color: #ec5242;
+  width: 9px;
+  height: 9px;
+  transform: rotate(-45deg);
+}
+
+.ticket-content {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.red-step {
+  color: red;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  border-collapse: collapse;
+  border: 5px dashed #ec5242;
+}
+
+th, td {
+  font-weight: "Lato", sans-serif,
+  border-right: 1px solid #d3d3d3;
+  padding: 15px;
+  text-align: center;
+}
+
+th {
+  font-size: 20px;
+}
+
+.red-diamond1 {
+  position: relative;
+  top: -20px;
+  margin-left: 20px;
+  background-color: #ec5242;
+  width: 40px;
+  height: 40px;
+  transform: rotate(-45deg);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button {
+  padding: 15px;
+  background-color: #ec5242;
+  color: white;
+  font-size: 20px;
+  border-radius: 5px;
+  margin-top: 3rem;
+  margin-left: 46%;
+  margin-bottom: 3rem;
+}
+
+.lunch-menu {
+  display: flex;
+  justify-content: center;
+}
+
+.lunch-form {
+  border: 1px solid #d3d3d3;
+}
+
+.lunch-form th {
+  background-color: #d3d3d3;
+  padding: 2rem;
+}
+
+.lunch-form td {
+  padding: 3rem;
+}
