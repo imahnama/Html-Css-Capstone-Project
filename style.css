@@ -282,6 +282,21 @@ body {
   font-size: 25px;
 }
 
+.speakers1 img {
+  width: 50%;
+  height: 270px;
+  float: left;
+  border-radius: 10%;
+  padding-right: 10px;
+}
+
+.footer-left img {
+  width: 90px;
+  height: auto;
+  float: left;
+  margin: 1rem;
+}
+
 #mobile-nav {
   width: 100%;
   height: auto;
@@ -307,21 +322,6 @@ body {
   display: inline-block;
   padding: 10px;
   box-sizing: border-box;
-}
-
-.speakers1 img {
-  width: 50%;
-  height: 270px;
-  float: left;
-  border-radius: 10%;
-  padding-right: 10px;
-}
-
-.footer-left img {
-  width: 90px;
-  height: auto;
-  float: left;
-  margin: 1rem;
 }
 
 #mobile-nav img {
