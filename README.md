@@ -20,7 +20,7 @@ Capstone projects are solo projects at the end of the each of the Microverse Mai
 
 ## Live Video
 
-[Live Demo Link](https://www.loom.com/share/b579678f332f413d943cf4c573753693)
+[ Video Presentation](https://www.loom.com/share/b579678f332f413d943cf4c573753693)
 
 ## Getting Started
 
