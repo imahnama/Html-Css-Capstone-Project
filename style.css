@@ -249,7 +249,6 @@ header {
   justify-content: space-between;
   margin-right: 40px;
   height: 80px;
-  margin-bottom: 1rem;
   background-color: #d3d3d3;
   width: 100%;
 }
@@ -346,6 +345,7 @@ header {
 
 .main {
   height: 800px;
+  margin-top: 0;
   background-image: url("https://res.cloudinary.com/twenty20/private_images/t_watermark-criss-cross-10/v1520413579000/photosp/c2895553-7c44-4d39-b61a-818643e0d113/stock-photo-connection-business-technology-coffee-office-laptop-screen-computer-professional-c2895553-7c44-4d39-b61a-818643e0d113.jpg");
   background-size: cover;
   background-repeat: no-repeat;
