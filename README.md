@@ -56,7 +56,7 @@ Give a ⭐️ if you like this project!!
 
 - Freecodecamp
 - w3schools
--
+- The [Original design] (https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) is attributed to [Cindy Shin on Behance] (https://www.behance.net/adagio07)
 
 
 ## 📝 License
