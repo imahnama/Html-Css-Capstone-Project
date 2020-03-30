@@ -17,6 +17,11 @@ Capstone projects are solo projects at the end of the each of the Microverse Mai
 
 [Live Demo Link](https://rawcdn.githack.com/imahnama/Html-Css-Capstone-Project/d82f5f43b8eda60e71a0658d0463249a066f31c6/index.html)
 
+
+## Live Video
+
+[Live Demo Link](https://www.loom.com/share/b579678f332f413d943cf4c573753693)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
