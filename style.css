@@ -122,10 +122,16 @@ div.speakers {
   display: flex;
   flex-direction: column;
   margin-left: 1rem;
+  margin-right: 0px;
 }
 
 div.speakers1 {
+  display: flex;
   margin-bottom: 1rem;
+}
+
+div.speaker-content {
+  width: 100%;
 }
 
 div.parallax h1 {
