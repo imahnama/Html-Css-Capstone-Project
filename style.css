@@ -250,6 +250,8 @@ header {
   margin-right: 40px;
   height: 80px;
   margin-bottom: 1rem;
+  background-color: #d3d3d3;
+  width: 100%;
 }
 
 .nav-content {
@@ -281,9 +283,10 @@ header {
 
 .nav-a li a {
   padding-left: 15px;
-  color: grey;
+  color: #272a31;
   text-decoration: none;
   font-size: 25px;
+  margin-right: 1rem;
 }
 
 .speakers1 img {
