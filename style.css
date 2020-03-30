@@ -224,6 +224,12 @@ body {
   font-family: "Cocogoose", sans-serif;
 }
 
+header {
+  height: auto;
+  position: sticky;
+  top: 0;
+}
+
 .upper-nav {
   display: flex;
   color: white;
@@ -244,8 +250,6 @@ body {
   margin-right: 40px;
   height: 80px;
   margin-bottom: 1rem;
-  position: sticky;
-  top: 0;
 }
 
 .nav-content {
