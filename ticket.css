@@ -1,10 +1,11 @@
-@media (min-width: 769px) and (max-width: 1430px){
-
+@media (min-width: 769px) and (max-width: 1430px) {
+  div.ticket-main {
+    width: 70%;
+  }
 }
 
-@media  (max-width: 768px) {
-
-table.ticket-cost {
+@media (max-width: 768px) {
+  table.ticket-cost {
     margin-right: 1rem;
     font-size: 15px;
   }
@@ -55,9 +56,8 @@ table.ticket-cost {
   section.partner {
     display: none !important;
   }
-
-
 }
+
 .first-ticket {
   background-color: rgb(245, 245, 245);
   padding-bottom: 6rem;
@@ -107,10 +107,12 @@ table {
   border: 5px dashed #ec5242;
 }
 
-th, td {
-  font-weight: "Lato", sans-serif,
+th,
+td {
+  font-weight: "Lato" sans-serif;
   border-right: 1px solid #d3d3d3;
   padding: 15px;
+  color: #272a31;
   text-align: center;
   border: 1px solid #d3d3d3;
 }
@@ -118,12 +120,12 @@ th, td {
 th {
   font-size: 20px;
   border: 1px solid #d3d3d3;
+  color: #272a31;
 }
 
 .red-diamond1 {
   position: relative;
   top: -20px;
-  margin-left: 20px;
   background-color: #ec5242;
   width: 40px;
   height: 40px;

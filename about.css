@@ -1,4 +1,4 @@
-@media (min-width: 769px) and (max-width: 1430px){
+@media (min-width: 769px) and (max-width: 1430px) {
   div.about-content {
     width: 70%;
     margin-left: 8rem;
@@ -31,12 +31,9 @@
   div.footer-left p {
     font-size: 20px;
   }
-
 }
 
-
 @media (max-width: 768px) {
-
   div.about-content {
     margin-left: 1rem;
     width: 90%;
@@ -73,6 +70,10 @@
   }
 }
 
+body {
+  color: #272a31;
+}
+
 .main-heading {
   color: #ec5242;
   font-size: 35px;
@@ -83,7 +84,6 @@
 }
 
 .about-hr {
-
   border-bottom: 1px solid #ec5242;
   width: 5%;
 }
@@ -96,11 +96,13 @@
   text-align: center;
   border: 2px solid #d3d3d3;
   padding: 10px;
+  color: #272a31;
   border-radius: 5px;
   width: 55%;
 }
 
 .about-content1 {
+  font-family: Cocogoose, sans-serif;
   margin-left: auto;
   margin-right: auto;
   font-weight: bold;
