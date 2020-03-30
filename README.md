@@ -9,7 +9,7 @@ Capstone projects are solo projects at the end of the each of the Microverse Mai
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/imahnama/Newsweek/6475a7a833ef35003c7db55af8794742d3d0d66d/index.html)
+[Live Demo Link](https://rawcdn.githack.com/imahnama/Html-Css-Capstone-Project/69cf038aea08a2e61ceb60f08afcffd03764c9be/index.html)
 
 ## Getting Started
 
