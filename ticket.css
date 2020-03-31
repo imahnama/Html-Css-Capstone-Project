@@ -1,61 +1,6 @@
-@media (min-width: 769px) and (max-width: 1430px) {
-  div.ticket-main {
-    width: 70%;
-  }
-}
-
-@media (max-width: 768px) {
-  table.ticket-cost {
-    margin-right: 1rem;
-    font-size: 15px;
-  }
-
-  div.ticket-main {
-    margin-left: 1rem;
-    width: 90%;
-    margin-bottom: 1rem;
-  }
-
-  table.ticket-cost th {
-    font-size: 15px;
-  }
-
-  div.lunch-menu {
-    width: 80%;
-    margin-left: 3rem;
-  }
-
-  div.lunch-menu td {
-    padding: 2rem;
-  }
-
-  table.lunch-form {
-    font-size: 15px;
-  }
-
-  table.lunch-form th {
-    font-size: 15px;
-  }
-
-  footer {
-    display: flex;
-    flex-direction: column !important;
-    font-size: 10px;
-  }
-
-  div.footer-left,
-  div.footer-right {
-    padding: 0;
-    margin: 0;
-  }
-
-  div.footer-left p {
-    font-size: 15px;
-  }
-
-  section.partner {
-    display: none !important;
-  }
+body {
+  padding: 0;
+  margin: 0;
 }
 
 .first-ticket {
@@ -161,4 +106,64 @@ th {
 
 .lunch-form td {
   padding: 3rem;
+}
+
+@media (min-width: 769px) and (max-width: 1430px) {
+  div.ticket-main {
+    width: 70%;
+  }
+}
+
+@media (max-width: 768px) {
+  table.ticket-cost {
+    margin-right: 1rem;
+    font-size: 15px;
+  }
+
+  div.ticket-main {
+    margin-left: 1rem;
+    width: 90%;
+    margin-bottom: 1rem;
+  }
+
+  table.ticket-cost th {
+    font-size: 15px;
+  }
+
+  div.lunch-menu {
+    width: 80%;
+    margin-left: 3rem;
+  }
+
+  div.lunch-menu td {
+    padding: 2rem;
+  }
+
+  table.lunch-form {
+    font-size: 15px;
+  }
+
+  table.lunch-form th {
+    font-size: 15px;
+  }
+
+  footer {
+    display: flex;
+    flex-direction: column !important;
+    font-size: 10px;
+  }
+
+  div.footer-left,
+  div.footer-right {
+    padding: 0;
+    margin: 0;
+  }
+
+  div.footer-left p {
+    font-size: 15px;
+  }
+
+  section.partner {
+    display: none !important;
+  }
 }

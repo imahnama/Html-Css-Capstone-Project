@@ -9,9 +9,8 @@ Capstone projects are solo projects at the end of the each of the Microverse Mai
 
 ## Built With
 
-- HTML &,
-- CSS,
-- Bootsrap
+- HTML & CSS.
+
 
 ## Live Demo
 
