@@ -14,7 +14,7 @@ header {
 .upper-nav {
   display: flex;
   color: white;
-  background-color: #181818;
+  background-color: #272a31;
   height: 30px;
   justify-content: center;
 }
@@ -30,7 +30,7 @@ header {
   justify-content: space-between;
   margin-right: 40px;
   height: 80px;
-  background-color: #d3d3d3;
+  background-color: #fff;
   width: 100%;
 }
 
@@ -84,7 +84,7 @@ header {
 }
 
 .mobile-nav {
-  background-color: #d3d3d3;
+  background-color: #fff;
   width: 100%;
   height: auto;
   position: sticky;
