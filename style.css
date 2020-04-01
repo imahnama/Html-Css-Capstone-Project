@@ -245,7 +245,7 @@ hr {
 
 .parallax {
   background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/sale_24045_primary_image_wide-796x398.jpg");
-  height: 200px;
+  height: 300px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -253,8 +253,7 @@ hr {
   opacity: 0.8;
 }
 
-.parallax h2,
-.partner-icons h2 {
+.parallax h2 {
   color: white;
   font-size: 60px;
   font-weight: bolder;
@@ -264,14 +263,25 @@ hr {
   padding-top: 60px;
 }
 
-.parallax1 h1 {
-  color: #272a31;
+.parallax h2 {
+  color: white;
+  font-size: 60px;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 0;
+  padding-top: 3.5rem;
+  margin-bottom: 0;
+  padding-top: 60px;
+}
+
+.parallax1 h2 {
+  color: white;
   font-size: 60px;
   font-weight: bolder;
   text-align: center;
   margin-top: 0;
   margin-bottom: 0;
-  padding-top: 60px;
+  padding-top: 3.5rem;
 }
 
 .speakers {
@@ -302,7 +312,7 @@ hr {
 
 .parallax1 {
   background-image: url("images/partner.jpg");
-  height: 220px;
+  height: 300px;
   width: 100%;
   background-attachment: fixed;
   background-position: center;
@@ -313,8 +323,9 @@ hr {
 
 .partner-icons {
   height: 300px;
-  font-size: 70px;
+  font-size: 50px;
   color: white;
+  padding-top: 4rem;
   text-align: center;
   background-color: #414141;
 }
